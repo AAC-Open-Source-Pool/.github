@@ -51,16 +51,14 @@ AAC members do projects related to the domain of their choosing every year, givi
 <h3>Contact Us:</h3>
 
 <a href="https://www.linkedin.com/school/aac-griet/">
-   <img align="left" alt="Venkat Amar | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt="Advanced Academic Center | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
-<a href="mailto:aactechgriet@gmail.com">
-    <img align="left" alt="Venkat Amar | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+<a href="mailto:aacgrietcore@gmail.com">
+    <img align="left" alt="Advanced Academic Center | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://instagram.com/aac_grietofficial?igshid=YTA1Njc0MTg3OQ==">
-    <img align="left" alt="Venkat Amar | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img align="left" alt="Advanced Academic Center | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://github.com/AAC-OSP">
-    <img align="left" alt="Venkat Amar | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Advanced Academic Center | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
-<br>
-<p align="right"> Managed by AAC Training and Development wing</p>
