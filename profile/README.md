@@ -50,7 +50,7 @@ AAC members do projects related to the domain of their choosing every year, givi
 <hr>
 <h3>Contact Us:</h3>
 
-<a href="https://www.linkedin.com/school/aac-griet/">
+<a href="https://www.linkedin.com/school/advanced-academic-center">
    <img align="left" alt="Advanced Academic Center | Linkedin" width="24px" src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="mailto:aacgrietcore@gmail.com">
